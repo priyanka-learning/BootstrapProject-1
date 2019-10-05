@@ -1,0 +1,39 @@
+
+
+body {
+	background-color: orange; 
+}
+
+.container {
+	background-color: white;
+	border-radius: 20px;
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+
+.footer-part {
+	height: 100px;
+}
+
+.nav-menu {
+	padding: 0;
+}
+
+.menu-part nav {
+	border-radius: 0;
+	margin-bottom: 0;
+}
+
+.service {
+	height: 300px;
+	border: 1px solid red;
+}
+.service-extra {
+	height: 70px;
+	border: 1px solid blue;
+}
+
+.carousel-inner img {
+
+}
