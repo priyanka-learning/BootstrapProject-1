@@ -23,6 +23,7 @@ body {
 .menu-part nav {
 	border-radius: 0;
 	margin-bottom: 0;
+	width: 100%;
 }
 
 .service {
@@ -35,5 +36,9 @@ body {
 }
 
 .carousel-inner img {
+	width: 100%;
+}
 
+li.nav-item {
+    margin: 0 10px;
 }
