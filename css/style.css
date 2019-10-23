@@ -35,10 +35,23 @@ body {
 	border: 1px solid blue;
 }
 
+.service-item {
+	height: 100px;
+    border: 1px solid;
+}
+
 .carousel-inner img {
 	width: 100%;
 }
 
 li.nav-item {
     margin: 0 10px;
+}
+
+.about-heading {
+	text-align: center;
+}
+
+.about-text {
+	padding: 0 15px;
 }
